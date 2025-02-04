@@ -1,2 +1,2 @@
 # MCAPLUS
-download page
+Alpha+ download repository.
